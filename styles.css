@@ -1,0 +1,16 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#698269;
+    background-color: #F1DBBF;
+}
+h1, h2 {
+    color: #AA5656;
+}
+
+.foodphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+}
